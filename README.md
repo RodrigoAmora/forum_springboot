@@ -1,5 +1,5 @@
 # forum-spingboot
 
-Aplicação de exemplo usando o Spring Boot.<br>
+Aplicação de API usando o Spring Boot.<br>
 
 
